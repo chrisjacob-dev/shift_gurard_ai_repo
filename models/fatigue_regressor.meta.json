@@ -1,0 +1,24 @@
+{
+  "metrics": {
+    "mae": 6.1116866098647575,
+    "rmse": 7.406810984871736,
+    "r2": 0.9592056994560554
+  },
+  "n_rows": 24999,
+  "n_train": 19999,
+  "n_test": 5000,
+  "target": "Decision_Fatigue_Score",
+  "features": [
+    "Hours_Awake",
+    "Decisions_Made",
+    "Task_Switches",
+    "Avg_Decision_Time_sec",
+    "Sleep_Hours_Last_Night",
+    "Caffeine_Intake_Cups",
+    "Stress_Level_1_10",
+    "Error_Rate",
+    "Cognitive_Load_Score",
+    "Time_of_Day"
+  ],
+  "model_path": "C:\\Users\\abaan\\IAI Project\\models\\fatigue_regressor.joblib"
+}
