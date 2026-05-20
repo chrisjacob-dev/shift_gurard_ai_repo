@@ -20,5 +20,5 @@
     "Cognitive_Load_Score",
     "Time_of_Day"
   ],
-  "model_path": "C:\\Users\\abaan\\IAI Project\\models\\fatigue_regressor.joblib"
+  "model_path": '/Users/chrisjacob/Desktop/IAI Project/models/fatigue_regressor.joblib'
 }
